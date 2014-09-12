@@ -1,10 +1,9 @@
 [原文: https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-注：本人根据自己的开发习惯删除和修改了部分规范
-
 # JavaScript规范
 
 ## <a name='TOC'>内容列表</a>
+
 
   1. [类型](#types)
   1. [对象](#objects)
@@ -68,7 +67,7 @@
     console.log(foo[0], bar[0]); // => 9, 9
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 ## <a name='objects'>对象</a>
 
@@ -99,7 +98,7 @@
       hidden: true
     };
     ```
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 ## <a name='arrays'>数组</a>
 
@@ -151,7 +150,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='strings'>字符串</a>
@@ -240,7 +239,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='functions'>函数</a>
@@ -297,7 +296,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='properties'>属性</a>
@@ -317,7 +316,7 @@
     var isJedi = getProp('jedi');
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='variables'>变量</a>
@@ -426,7 +425,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='conditionals'>条件表达式和等号</a>
@@ -474,7 +473,7 @@
 
   - 阅读 [Truth Equality and JavaScript](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108) 了解更多
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='blocks'>块</a>
@@ -503,7 +502,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='comments'>注释</a>
@@ -592,7 +591,7 @@
     }
   ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='whitespace'>空白</a>
@@ -672,7 +671,7 @@
         .call(tron.led);
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 ## <a name='commas'>逗号</a>
 
@@ -732,7 +731,7 @@
     ];
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='semicolons'>分号</a>
@@ -759,7 +758,7 @@
     })();
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='type-coercion'>类型转换</a>
@@ -830,7 +829,7 @@
     var hasAge = !!age;
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='naming-conventions'>命名约定</a>
@@ -930,7 +929,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='accessors'>存取器</a>
@@ -984,7 +983,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='constructors'>构造器</a>
@@ -1069,7 +1068,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='events'>事件</a>
@@ -1100,7 +1099,7 @@
     });
     ```
 
-  **[[⬆]](#TOC)**
+  **[[↑TOP]](#TOP)**
 
 
 ## <a name='modules'>模块</a>
@@ -1131,7 +1130,7 @@
     }(this);
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='jquery'>jQuery</a>
@@ -1186,14 +1185,14 @@
     $($sidebar[0]).find('ul');
     ```
 
-    **[[⬆]](#TOC)**
+    **[[↑TOP]](#TOP)**
 
 
 ## <a name='es5'>ECMAScript 5兼容性</a>
 
   - 参考[Kangax](https://twitter.com/kangax/)的 ES5 [compatibility table](http://kangax.github.com/es5-compat-table/)
 
-  **[[⬆]](#TOC)**
+  **[[↑TOP]](#TOP)**
 
 
 
@@ -1208,7 +1207,7 @@
   - [Long String Concatenation](http://jsperf.com/ya-string-concat)
   - Loading...
 
-  **[[⬆]](#TOC)**
+  **[[↑TOP]](#TOP)**
 
 
 ## <a name='resources'>资源</a>
@@ -1258,7 +1257,7 @@
   - [Dustin Diaz](http://dustindiaz.com/)
   - [nettuts](http://net.tutsplus.com/?s=javascript)
 
-  **[[⬆]](#TOC)**
+  **[[↑TOP]](#TOP)**
 
 ## <a name='in-the-wild'>哪些人在使用</a>
 
@@ -1323,6 +1322,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**[[⬆]](#TOC)**
+**[[↑TOP]](#TOP)**
 
-# };
+
