@@ -1,6 +1,6 @@
 原文：https://github.com/csswizardry/CSS-Guidelines 和 https://github.com/chadluo/CSS-Guidelines/blob/master/README.md
 
-注：我根据自己的开发习惯修改和删除了部分规范
+
 
 # CSS编码规范
 
